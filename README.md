@@ -20,10 +20,9 @@ Our project compares the performance of VGG16, DenseNet, ResNet50,
 and AlexNet in classifying retina images from the Asia Pacific Tele-Ophthalmology Society (APTOS) 
 dataset that has labels made by clinicians on diabetic retinopathy status.  
 
-All models were trained for 10 epochs.  We looked at accuracy, loss, and run
+All models were trained for 10 epochs.  We utilized Tensorflow's pre-trained models and modified 
+each to suit the needs of our task.  We considered accuracy, loss, and run
 time when evaluating model performance on our dataset.
-
-Our project yielded the following results:
 
 ![image](https://github.com/ernraff/Diabetic_Retinopathy/assets/103540977/afd5ed76-5850-4009-a374-9a229e7b25e2)
 
