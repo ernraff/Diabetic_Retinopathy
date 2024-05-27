@@ -1,4 +1,5 @@
-# Diabetic Retinopathy
+# Deep Learning for Diabetic Eye Disease: A Comparative Analysis of Detection
+and Grading Models
 
 Diabetic retinopathy stands as a significant microvascular
 complication of diabetes mellitus, impacting millions with
