@@ -1,4 +1,4 @@
-# Diabetic_Retinopathy
+# Diabetic Retinopathy
 
 Diabetic retinopathy stands as a significant microvascular
 complication of diabetes mellitus, impacting millions with
