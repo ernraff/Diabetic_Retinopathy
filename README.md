@@ -1,5 +1,4 @@
-# Deep Learning for Diabetic Eye Disease: A Comparative Analysis of Detection
-and Grading Models
+# A Comparative Analysis of Deep Learning Detection and Grading Models for Diabetic Eye Disease
 
 Diabetic retinopathy stands as a significant microvascular
 complication of diabetes mellitus, impacting millions with
