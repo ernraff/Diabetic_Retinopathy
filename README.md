@@ -24,6 +24,7 @@ All models were trained for 10 epochs.  We looked at accuracy, loss, and run
 time when evaluating model performance on our dataset.
 
 Our project yielded the following results:
+
 ![image](https://github.com/ernraff/Diabetic_Retinopathy/assets/103540977/afd5ed76-5850-4009-a374-9a229e7b25e2)
 
 We determined that VGG16, with the highest accuracy rate, was the best performing of the models evaluated.
